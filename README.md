@@ -1,4 +1,4 @@
-# PyTrivia-Winter-Project-2024
+# PyTrivia Winter Project 2024
 
 This project is a timed trivia game made using Python. Multithreading was used for printing out the timer and allowing user input simultaneously.
 
